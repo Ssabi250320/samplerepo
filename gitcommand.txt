@@ -1,0 +1,43 @@
+step-1
+
+signup GitHub account
+
+
+step-2
+
+create new repository- choose account type
+
+
+step -3[clone the repo for your local machine]
+
+
+Download git and install on your os  
+
+navigate your local  machine project path--- open terminal via  project path
+
+
+step -4
+
+configure git commands
+
+configure user
+
+	git config --global user.name "mention your  GitHub user name"
+
+configure email
+  	git config --global user.email "mention your GitHub email id"
+
+clone command
+copy http link from GitHub 
+	git clone https://github.com//....
+
+
+
+step -5
+
+
+
+
+
+
+
