@@ -37,6 +37,10 @@ step -5[staging and unstaging]
 git add 
 git commit 
 
+use this command for staging 
+
+use git push to store file cloud storage
+
 
 
 
